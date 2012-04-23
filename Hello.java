@@ -5,10 +5,13 @@ class Hello
 	{
 		System.out.println("Hello world");
 	}
+<<<<<<< HEAD
 
 	void fun()
 	{
 
 	}
+=======
+>>>>>>> origin/master
 }
 	
