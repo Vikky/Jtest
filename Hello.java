@@ -13,5 +13,7 @@ class Hello
 	}
 =======
 >>>>>>> origin/master
+
+//updateing this  file.
 }
 	
